@@ -22,7 +22,7 @@
 ![222](https://user-images.githubusercontent.com/49806698/150682546-71ca8376-61fa-48fa-bf5d-c85f0b4711a8.png)
 
 
-## 4. 수형 사진
+## 4. 수행 사진
 ![333](https://user-images.githubusercontent.com/49806698/150682583-0d5e54bf-497a-484b-aa55-30f9251ca74c.png)
 ![4444](https://user-images.githubusercontent.com/49806698/150682612-47fee3b2-47b9-47d8-b461-4401b8e042ca.png)
 
