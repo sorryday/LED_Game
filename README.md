@@ -15,6 +15,17 @@
 |SlaveTwo_74595Chip_LED|LED 설정 프로그램이다. Master UNO에서 값을 받고 ‘Wire.onReceive(result)’에서 함수를 받아서 그 함수를 실행하고 값에 따라 LED를 랜덤하게 키거나 특정 LED를 점등|
 
 ## 2. Flowchart
+![11](https://user-images.githubusercontent.com/49806698/150682435-d0ef0271-ecd8-4d31-b4b7-717c31d13772.png)
+
+
+## 3. 회로도
+![222](https://user-images.githubusercontent.com/49806698/150682546-71ca8376-61fa-48fa-bf5d-c85f0b4711a8.png)
+
+
+## 4. 수형 사진
+![333](https://user-images.githubusercontent.com/49806698/150682583-0d5e54bf-497a-484b-aa55-30f9251ca74c.png)
+![4444](https://user-images.githubusercontent.com/49806698/150682612-47fee3b2-47b9-47d8-b461-4401b8e042ca.png)
+
 
 
 
